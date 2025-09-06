@@ -1,0 +1,23 @@
+{
+  "name": "02_igniting_app",
+  "version": "1.0.0",
+  "description": "This is react tutorial practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Raushan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
